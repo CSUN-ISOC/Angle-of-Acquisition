@@ -30,6 +30,9 @@ Figure 2 shows a MATLAB simulation confirming proper operation of the entire Ang
 Figure 3 shows the design file for one quarter of the sphere. Due to its size, the Fibonacci Sphere had to be printed in quarters and attached together after the fact.
 
 
+# Video Demonstrations
+- Rotating the Fibonacci Sphere using Dummy Code: https://youtube.com/shorts/8NIZiA7H-AY
+
 # Testing Documentation
 The following media displays the testing that has gone into the designing, building, and programming of the Fibonacci Sphere and its respective circuitry.
 
