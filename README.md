@@ -14,7 +14,7 @@ Fig.2
 
 Figure 2 shows how the servo mount is internally attached to the Fibonacci Sphere via nuts and bolts. Thread locker has been added to avoid loosening under vibration and/or shock.
 
-![sphere_new_wires2](https://github.com/user-attachments/assets/d5310429-a9b6-4005-9efd-4cab5f88b660)
+![sphere_new_wires](https://github.com/user-attachments/assets/30f61770-2100-4d67-b063-75f68112a976)
 Fig.3
 
 It was soon realized that the original shielded wiring that was used (black wires shown in Fig.2) were not necessary and were only more difficult to work with (i.e. to solder) due to them being frayed wires rather than solid. Figure 3 shows the old wires switched out for new red/blue wires with a solid core that allowed for easier soldering and a lighter load on the servo and its mount.
