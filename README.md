@@ -18,6 +18,13 @@ Fig.2
 
 Figure 2 shows a MATLAB simulation confirming proper operation of the entire Angle of Acquisition system. In this simulation, a theoretical flashlight is shined at the Fibonacci Sphere. The Fibonacci Sphere can identify where on the sphere the beam of light is shining by using data from all 64 of the photoresistors mounted on the sphere. From this, the sphere positions itself to make the beam of light shine on a receiver mounted to the exterior surface of the Fibonacci Sphere and thus allow the receiver to "focus" on the incoming data encoded into light source. The position of the flashlight changes every four seconds, and within those four seconds, the sphere is expected to move accordingly to line up the receiver to the beam of light. The square waves show the different positions of the light and the decaying graphs show the initial large error, which approaches zero in less than one second, meaning that the sphere properly identified the position of the incoming light and positioned the receiver as intended. This quick adjustment however, raised concerns about the forces that would result on the sphere, so the repositioning speed of the sphere was adjusted to be much slower. Even considering this adjustment, the sphere still has enough time to position itself and receive all of the incoming data.
 
+<img width="475" height="247" alt="Screenshot 2026-02-26 182515" src="https://github.com/user-attachments/assets/5d58048f-20b8-4d63-9526-a95974ccf907" />
+
+Fig.3
+
+Figure 3 shows the design file for one quarter of the sphere. Due to its size, the Fibonacci Sphere had to be printed in quarters and attached together after the fact.
+
+
 # Testing Documentation
 The following media displays the testing that has gone into the designing, building, and programming of the Fibonacci Sphere and its respective circuitry.
 
