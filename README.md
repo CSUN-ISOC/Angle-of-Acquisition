@@ -8,7 +8,7 @@ The primary goal of the AoA team this semester is to improve the design of the s
 <img width="603" height="541" alt="Screenshot 2026-02-26 180515" src="https://github.com/user-attachments/assets/fd0ebe46-a909-49a5-83aa-9cc292405326" />
 
 
-### Fig.1
+#### Fig.1
 
 
 
