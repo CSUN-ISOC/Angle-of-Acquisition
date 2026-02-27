@@ -9,6 +9,7 @@ The primary goal of the AoA team this semester is to improve the design of the s
 
 Fig.1
 
+
 Figure 1 shows the design of the 3D-printed servo mount in CAD. This servo will allow the sphere to rotate 360 degrees and tilt 15 degrees in each direction.
 
 <img width="761" height="683" alt="Screenshot 2026-02-26 180840" src="https://github.com/user-attachments/assets/c7919347-2b46-4893-871f-660c3fe589c9" />
