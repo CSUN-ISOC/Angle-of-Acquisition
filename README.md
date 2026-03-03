@@ -32,6 +32,7 @@ Figure 3 shows the design file for one quarter of the sphere. Due to its size, t
 
 # Video Demonstrations
 - Rotating the Fibonacci Sphere using Dummy Code:
+  
   ![ISOC_Project](https://github.com/user-attachments/assets/1c99e2d3-a46a-44db-a8b0-c0c5e0bb533a)
 
 
