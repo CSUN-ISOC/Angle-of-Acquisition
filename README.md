@@ -31,7 +31,9 @@ Figure 3 shows the design file for one quarter of the sphere. Due to its size, t
 
 
 # Video Demonstrations
-- Rotating the Fibonacci Sphere using Dummy Code: https://youtube.com/shorts/8NIZiA7H-AY
+- Rotating the Fibonacci Sphere using Dummy Code:
+  ![ISOC_Project](https://github.com/user-attachments/assets/1c99e2d3-a46a-44db-a8b0-c0c5e0bb533a)
+
 
 # Testing Documentation
 The following media displays the testing that has gone into the designing, building, and programming of the Fibonacci Sphere and its respective circuitry.
