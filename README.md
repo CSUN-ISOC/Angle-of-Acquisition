@@ -1,5 +1,5 @@
 # Angle-of-Acquisition
-This is the repository for the AoA (Angle of Acquisition) team's work throughout the semester. All files (source code and design files) relating to the AoA team and the Fibonacci Sphere can be found in this repository. Branches of this repository are meant for team members of the AoA team and their individual contributions to the project.
+This is the repository for the AoA (Angle of Arrival) team's work throughout the semester. All files (source code and design files) relating to the AoA team and the Fibonacci Sphere can be found in this repository. Branches of this repository are meant for team members of the AoA team and their individual contributions to the project.
 
 The primary goal of the AoA team this semester is to improve the design of the sphere and to give it the ability to adjust its positioning depending on the angle of an incoming modulated signal from a laser diode.
 
